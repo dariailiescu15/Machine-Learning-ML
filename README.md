@@ -86,5 +86,5 @@ evaluare și interpretare
 
 vizualizare și analiză
 
-## © 2024 — Projects created by Daria-Gabriela Iliescu.
+## © 2025 — Projects created by Daria-Gabriela Iliescu.
 All rights reserved. Use, distribution, or modification of these notebooks or datasets is permitted only with proper attribution to the author.
